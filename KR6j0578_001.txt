@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:35:32.271653
+#+DATE: 2015-08-30 20:35:33.318566
 #+TITLE: 佛說十二佛名神呪校量功德除障滅罪經
 #+PROPERTY: CBETA_ID T21n1348
 #+PROPERTY: ID KR6j0578
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1348
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6j0578_T_000-0860c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0578_T_001-0860c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1348[No.1349]¶
-
- 佛說十二佛名神呪校量功德除¶
+No. 1348 [No. 1349]¶
+佛說十二佛名神呪校量功德除¶
 障滅罪經¶
 ¶
 隋天竺三藏法師闍那崛多譯¶
